@@ -9,4 +9,8 @@
 
 ### Branch
 - O que são branches
-- 
+
+git branch
+git branch nome
+git branch -d nome
+git checkout nome
