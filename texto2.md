@@ -14,3 +14,4 @@ git branch
 git branch nome
 git branch -d nome
 git checkout nome
+git checkout -d nome
